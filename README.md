@@ -1,6 +1,5 @@
 # Daily Travel Website
 
-# Pixcel Perfect Demo Landing Page
 
 <h5>HTML:</h5>
 <ul>
